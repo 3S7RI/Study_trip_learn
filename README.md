@@ -1,7 +1,3 @@
 # Study Trip to Learn English
-React + Vite، التقدم محفوظ محلياً في المتصفح (مع تصدير/استيراد نسخة احتياطية).
-```
-npm install
-npm run dev
-```
-النشر: ارفع على GitHub (فرع main) ثم Settings > Pages > Source: GitHub Actions.
+موقع ثابت بدون أي أدوات بناء: HTML + CSS + JavaScript. ارفع الملفات على الريبو وفعّل Pages (Deploy from a branch ← main ← /root).
+المحتوى (الدروس والكلمات) في ملف data.js.
